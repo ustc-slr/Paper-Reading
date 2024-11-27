@@ -1,4 +1,4 @@
-# Paper-Reading
+# Paper Reading
 
 ## 报告人顺序
 * 景卓然
